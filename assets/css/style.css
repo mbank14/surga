@@ -149,7 +149,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .social-links a {
-  color: #413e66;
+  color: #007c28;
   padding-left: 20px;
   display: inline-block;
   line-height: 1px;
@@ -196,7 +196,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #413e66;
+  color: #007c28;
 }
 
 #header .logo img {
@@ -237,7 +237,7 @@ h1, h2, h3, h4, h5, h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #413e66;
+  color: #007c28;
   padding: 10px 0;
   transition: 0.3s;
   font-size: 14px;
@@ -455,7 +455,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .intro-info h2 {
-  color: #413e66;
+  color: #007c28;
   margin-bottom: 40px;
   font-size: 48px;
   font-weight: 700;
@@ -502,7 +502,7 @@ section {
 --------------------------------*/
 .section-header h3 {
   font-size: 36px;
-  color: #413e66;
+  color: #007c28;
   text-align: center;
   font-weight: 700;
   position: relative;
@@ -541,7 +541,7 @@ section {
 }
 
 #about .about-content h2 {
-  color: #413e66;
+  color: #007c28;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
 }
@@ -692,7 +692,7 @@ section {
   font-size: 24px;
   font-weight: 600;
   margin-left: 56px;
-  color: #413e66;
+  color: #007c28;
   margin-bottom: 5px;
 }
 
@@ -798,7 +798,7 @@ section {
   padding: 6px 10px;
   font-size: 16px;
   line-height: 20px;
-  color: #413e66;
+  color: #007c28;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
@@ -1155,7 +1155,7 @@ section {
 #pricing .card .list-group-item {
   border: 0px;
   padding: 6px;
-  color: #413e66;
+  color: #007c28;
   font-weight: 300;
 }
 
@@ -1413,7 +1413,7 @@ section {
   padding: 2px 0 2px 0;
   line-height: 1;
   font-family: "Montserrat", sans-serif;
-  color: #413e66;
+  color: #007c28;
   font-weight: 400;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -1456,7 +1456,7 @@ section {
 #footer .footer-top h4 {
   font-size: 14px;
   font-weight: bold;
-  color: #413e66;
+  color: #007c28;
   text-transform: uppercase;
   position: relative;
   padding-bottom: 10px;
