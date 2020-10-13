@@ -4,7 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+logo
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 70px;
 }
 
 @media (max-width: 992px) {
@@ -425,7 +425,7 @@ h1, h2, h3, h4, h5, h6 {
   #hero .container {
     height: auto !important;
   }
-  #hero .intro-img {
+  #hero logo {
     width: 80%;
   }
 }
