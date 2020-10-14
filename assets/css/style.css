@@ -14,10 +14,14 @@
   box-shadow: 0px 0px 20px grey;
 }
 .m{
-  margin-top: 60px;
+  width: 30%;
 }
-
-
+.n{
+  margin-top: 3%;
+}
+.w{
+  margin-bottom: 10%;
+}
 /* css dari sana */
 body {
   background: #fff;
