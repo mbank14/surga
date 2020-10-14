@@ -4,7 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+#hero .intro-info h2
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -460,13 +460,13 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .intro-info h2 {
   color: #007c28;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
   font-size: 48px;
   font-weight: 700;
 }
 
 #hero .intro-info h2 span {
-  color: #1bb1dc;
+  color: #43c75e;
 }
 
 @media (max-width: 767px) {
