@@ -4,7 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-#hero .intro-info h2
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -517,7 +517,7 @@ section {
   text-align: center;
   margin: auto;
   font-size: 15px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   color: #535074;
   width: 50%;
 }
